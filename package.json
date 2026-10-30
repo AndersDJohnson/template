@@ -67,7 +67,7 @@
     "relative": "^3.0.1",
     "relative-dest": "^0.1.0",
     "rewrite-ext": "^0.2.0",
-    "set-value": "^0.2.0",
+    "set-value": "^4.1.0",
     "sort-object": "^3.0.0",
     "write": "^0.2.1"
   },
